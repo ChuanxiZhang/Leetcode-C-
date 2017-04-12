@@ -32,5 +32,14 @@
     <ClCompile Include="test.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="141. Linked List Cycle.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="206. Reverse Linked List .cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="202. Happy Number .cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

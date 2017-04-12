@@ -149,6 +149,9 @@
     <ClInclude Include="targetver.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="141. Linked List Cycle.cpp" />
+    <ClCompile Include="202. Happy Number .cpp" />
+    <ClCompile Include="206. Reverse Linked List .cpp" />
     <ClCompile Include="test.cpp" />
     <ClCompile Include="stdafx.cpp">
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Create</PrecompiledHeader>
